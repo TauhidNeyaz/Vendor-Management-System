@@ -90,9 +90,5 @@ ride-sharing-platform/
 - Add **payment integration**.
 - Develop a **frontend** using React or Vue.js.
 
-## Contributing
-Feel free to contribute by opening issues or submitting pull requests!
 
-## License
-MIT License
 
